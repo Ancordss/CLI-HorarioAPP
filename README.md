@@ -7,7 +7,7 @@
 
 Clona este repositorio o descarga el paquete desde aqui: ![href]()
 
-abre la terminal y ejecuta este comando
+entra a la carpeta abre la terminal y ejecuta este comando
 
 ```
 -\.install.ps1
