@@ -5,7 +5,7 @@
 
 ### Instalacion
 
-Clona este repositorio o descarga el paquete desde este aqui: ![href]()
+Clona este repositorio o descarga el paquete desde aqui: ![href]()
 
 abre la terminal y ejecuta este comando
 
