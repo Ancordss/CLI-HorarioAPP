@@ -3,11 +3,9 @@
 [![horario_pic.png](https://github.com/Ancordss/CLI-HorarioAPP/blob/main/pics/horario_pic.png)]
 
 
-## Instalacion
+### Instalacion
 
-Clona este repositorio o descarga el paquete desde este link ![link](en progreso)
-
-ejecuta el 
+Clona este repositorio o descarga el paquete desde este aqui: ![href]()
 
 abre la terminal y ejecuta este comando
 
