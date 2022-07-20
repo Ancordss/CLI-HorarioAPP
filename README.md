@@ -42,7 +42,7 @@ clona el repositorio entra a la carpeta
 abre una terminal y coloca 
 
 ```
-- [x] go buil .\horario.go
+- [x] go build .\horario.go
 ```
 
 ejecutalo y ya estaria
