@@ -1,18 +1,11 @@
 ### Vista Previa
 
-
-
-
-
-
-
-
-
+[![horario_pic.png](https://github.com/Ancordss/CLI-HorarioAPP/blob/main/pics/horario_pic.png)]
 
 
 ## Instalacion
 
-Clona este repositorio o descarga el paquete desde este link ![href]()
+Clona este repositorio o descarga el paquete desde este link ![link](en progreso)
 
 ejecuta el 
 
@@ -26,6 +19,8 @@ ahora ejecuta el siguiente comando
 ```
 - [x] Get-Variable Profile
 ```
+mostrara algo asi: [![var_profile.png](https://github.com/Ancordss/CLI-HorarioAPP/blob/main/pics/var_profile.png)]
+
 ve a la direccion que muestra en la terminal
 
 abre el archivo que termina con ##profile.ps1
