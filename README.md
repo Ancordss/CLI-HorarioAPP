@@ -1,50 +1,52 @@
-### Vista Previa
+### Preview
 
 ![horario_pic.png](https://github.com/Ancordss/CLI-HorarioAPP/blob/main/pics/horario_pic.png)
 
 
-### Instalacion
+### Setting-up
 
-Clona este repositorio o descarga el paquete desde aqui: ![href]()
+Clone this repository or download the package from here: ![repo](https://github.com/Ancordss/CLI-HorarioAPP.git)
 
-entra a la carpeta abre la terminal y ejecuta este comando
+enter the folder open terminal and run this command
 
 ```
 -\.install.ps1
 ```
-ahora ejecuta el siguiente comando 
+now run the following command
 
 ```
 - [x] Get-Variable Profile
 ```
-mostrara algo asi: ![var_profile.png](https://github.com/Ancordss/CLI-HorarioAPP/blob/main/pics/var_profile.png)
+will show something like this: ![var_profile.png](https://github.com/Ancordss/CLI-HorarioAPP/blob/main/pics/var_profile.png)
 
-ve a la direccion que muestra en la terminal
+go to the address shown in the terminal
 
-abre el archivo que termina con ##profile.ps1
+open the file ending with ##profile.ps1
 
-copia y pega el siguiente comando al final del archivo 
+copy and paste the following command at the end of the file
 ```
 - [x] Set-Alias h 'C:\horario\horario.exe'
 ```
-Cierra y abre de nuevo la terminal para correr el programa coloca h y dale enter
+Close and open the terminal again to run the program place h and hit enter
 
 
-### copilalo desde 0 
+### build from scratch
 
-prerequisitos: 
+prerequisites:
 
 | go | 1.18.4|
 |----|-------|
 
-clona el repositorio entra a la carpeta 
+clone the repository enter the folder
 
-abre una terminal y coloca 
+open a terminal and put
 
 ```
 - [x] go build .\horario.go
 ```
 
-ejecutalo y ya estaria
+run it and it would be
 
-para instalarlo ve a la seccion de arriba.
+To install it go to the section above.
+
+!note: instructions only for windows sorry maybe later for linux
